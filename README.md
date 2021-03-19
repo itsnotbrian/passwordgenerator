@@ -1,7 +1,7 @@
 # passwordgenerator
 
-# H1 Brian Morgan
-## H2 This is my Password Generator.
+Brian Morgan
+This is my Password Generator.
 
 Sources:
 [W3 Schools](www.w3schools.com)
@@ -9,3 +9,6 @@ Sources:
 [Traversy Media](https://www.youtube.com/watch?v=duNmhKgtcsI)
 
 ![Password Generator](./assets/images/PasswordGenSS.png)
+
+[GitHub](https://github.com/N-Person/passwordgenerator)
+[Live Url](https://n-person.github.io/passwordgenerator/)
